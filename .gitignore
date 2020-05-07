@@ -1,3 +1,5 @@
 .bundle
 ruby
 ruby-gem-layer.zip
+gem_layer.zip
+Gemfile.lock
